@@ -1,6 +1,10 @@
 # Insurance-Data-Analytics
 
-1. Imbalanced data classification:
+## Data: 
+- **Vehicle Insurance Claim Fraud Detection:** https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection
+- **Vehicle Insurance Fraud Detection:** https://www.kaggle.com/datasets/khusheekapoor/vehicle-insurance-fraud-detection
+
+## 1. Imbalanced data classification:
    Methods:
    
    a. Data-level: Oversampling(includes SMOTE and ADASYN), Undersampling, feature engineering
@@ -9,4 +13,4 @@
    
    c. Hybrid: a + b
 
-3. MPT to optimise the decision
+## 2. MPT to optimise the decision
