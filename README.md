@@ -5,7 +5,7 @@
 - **Vehicle Insurance Fraud Detection:** https://www.kaggle.com/datasets/khusheekapoor/vehicle-insurance-fraud-detection
 
 ## 1. Imbalanced data classification:
-   Methods:
+   Methods for imbalanced data:
    
    a. Data-level: Oversampling(includes SMOTE and ADASYN), Undersampling, feature engineering
    
