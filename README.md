@@ -2,8 +2,6 @@
 
 ## Data: 
 - **Vehicle Insurance Claim Fraud Detection:** https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection
-- **Vehicle Insurance Fraud Detection:** https://www.kaggle.com/datasets/khusheekapoor/vehicle-insurance-fraud-detection
-
 ## 1. Imbalanced data classification:
    Methods for imbalanced data:
    
