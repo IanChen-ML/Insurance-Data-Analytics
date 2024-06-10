@@ -11,4 +11,4 @@
    
    c. Hybrid: a + b
 
-## 2. MPT to optimise the decision
+## 2. MPT to optimise decision-making
