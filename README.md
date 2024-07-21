@@ -11,4 +11,6 @@
    
    c. Hybrid: a + b
 
+## Probability Calibration
+
 ## 2. MPT to optimise decision-making
